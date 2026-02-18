@@ -13,7 +13,7 @@ This is a binary classification problem with real-world business impact
 Dataset Source: Kaggle – Credit Risk Dataset
 
 
-Machine Learning Pipeline Architecture
+**Machine Learning Pipeline Architecture**
 Raw Data
    ↓
 ColumnTransformer
