@@ -1,4 +1,4 @@
-Credit Risk Prediction using Machine Learning Pipelines 
+**Credit Risk Prediction using Machine Learning Pipelines **
 
 This project builds an end-to-end supervised machine learning pipeline to predict whether a customer will default on a loan.
 It follows data preprocessing, model building, evaluation, and hyperparameter tuning using scikit-learn.
