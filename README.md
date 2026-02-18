@@ -28,7 +28,7 @@ ColumnTransformer
 Logistic Regression
 
 
-Model Performance
+**Model Performance**
 Confusion Matrix
 
 Strong performance on non-defaulters
@@ -41,6 +41,6 @@ Accuracy: ~87%
 
 ROC-AUC: ~0.87
 
-ROC Curve
+**ROC Curve**
 
 The ROC curve demonstrates strong class separation, validating the model’s ability to distinguish defaulters from non-defaulters across thresholds.
